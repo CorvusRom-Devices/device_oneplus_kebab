@@ -26,5 +26,9 @@
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
+# Corvus stuff
+FOD_ANIMATIONS := true
+HAS_FOD := true
+
 # Inherit from oneplus sm8250-common
 $(call inherit-product, device/oneplus/sm8250-common/common.mk)
