@@ -1,0 +1,26 @@
+[
+  {
+    "repository" :  "CorvusRom-Devices/device_oneplus_sm8250-common",
+    "target_path":  "device/oneplus/sm8250-common",
+    "branch"     :  "11",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "CorvusRom-Devices/kernel_oneplus_sm8250",
+    "target_path": "kernel/oneplus/sm8250",
+    "branch"     : "11",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "Amsal1/vendor_oneplus_sm8250-common",
+    "target_path": "vendor/oneplus/sm8250-common",
+    "branch"     : "11",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "chandu078/vendor_oneplus_addons_camera",
+    "target_path": "vendor/oneplus/addons/camera",
+    "branch"     : "eleven",
+    "remote"     : "gitlab"
+  }
+]
